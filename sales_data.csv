@@ -1,0 +1,6 @@
+Order_ID,Date,Customer_Name,Product,Quantity,Unit_Price,Total_Amount
+1001,2026-01-05,Amit,Laptop,1,55000,55000
+1002,2026-01-08,Neha,Mouse,2,500,1000
+1003,2026-01-12,Rahul,Keyboard,1,1500,1500
+1004,2026-01-18,Priya,Monitor,1,12000,12000
+1005,2026-01-25,Karan,Printer,1,8000,8000
